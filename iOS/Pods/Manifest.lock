@@ -1,0 +1,12 @@
+PODS:
+  - NSRails (2.1.2):
+    - NSRails/NSRails
+  - NSRails/NSRails (2.1.2)
+
+DEPENDENCIES:
+  - NSRails
+
+SPEC CHECKSUMS:
+  NSRails: f7ca6e2b554fe104667c8acb79fdf27ccff71b85
+
+COCOAPODS: 0.21.0
